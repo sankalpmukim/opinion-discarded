@@ -1,7 +1,4 @@
-import {
-  CheckCircleIcon,
-  InformationCircleIcon,
-} from "@heroicons/react/20/solid";
+import { CheckCircleIcon } from "@heroicons/react/20/solid";
 import {
   CONCLUSION_HEADING,
   CONCLUSION_P1,
@@ -20,7 +17,7 @@ import {
   WHY_ANSWER,
   WHY_QUESTION,
 } from "~/components/constants";
-import { ReactNode } from "react";
+import { type ReactNode } from "react";
 
 const SubHeading = ({ children }: { children: ReactNode }) => (
   <p className="text-base font-semibold leading-7 text-indigo-600">

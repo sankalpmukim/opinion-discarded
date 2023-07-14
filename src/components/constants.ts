@@ -1,4 +1,4 @@
-import { ListPointsType } from "~/components/Content";
+import { type ListPointsType } from "~/components/Content";
 
 export const TOP_TITLE = `So sorry but`;
 export const TITLE = `Your opinion was discarded.`;
