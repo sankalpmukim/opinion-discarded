@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Your opinion was discaded.</title>
+        <title>Your opinion was discarded.</title>
         <meta
           name="description"
           content="So sorry to tell you. But your opinion was discarded. Please try again."
